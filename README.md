@@ -15,19 +15,19 @@ Welcome to my GitHub! I'm a passionate developer with a solid foundation in math
 
 ## 🚀 Projects
 
-### [StudyChain WebApp](https://github.com/AAreeb13/StudyChain)
+### [StudyChain WebApp](https://github.com/AAreeb13/Design-For-Real-People)
 **Tech Stack:** HTML, CSS, JavaScript, React, Neo4j, D3, Firebase  
 A full-stack solution to enhance revision for math undergraduates with real-time professor-student interactions, supported by a scalable graphical database. Achieved a **78% grade**.
 
-### Building an Operating System
+### [Building an Operating System](https://github.com/AAreeb13/Operating-System)
 **Tech Stack:** C, GNU Debugger, Git, Valgrind  
 Implemented a thread-safe kernel with advanced concurrency and file system functionalities. Designed custom schedulers and significantly improved debugging efficiency, earning an **85% grade**.
 
-### DevOps & Compiler Design
+### [DevOps & Compiler Design](https://github.com/AAreeb13/WACC-Compiler)
 **Tech Stack:** Scala, GitLab CI/CD, Parsley  
 Built a fully-fledged compiler for the WACC language, from lexical analysis to machine code generation. Automated the build and deployment process with GitLab CI/CD and achieved a **grade of 87%**.
 
-### ARMV8 Emulator and Assembler
+### [ARMV8 Emulator and Assembler](https://github.com/AAreeb13/ARMv8-Emulator-and-Assembler-in-C)
 **Tech Stack:** C, Python, Valgrind  
 Developed an emulator and assembler for ARMv8 in C, complete with testing suites in Python, passing all test cases with a grade of **80%**.
 
