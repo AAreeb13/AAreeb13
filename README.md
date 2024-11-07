@@ -4,6 +4,9 @@
 
 Welcome to my GitHub! I'm a passionate developer with a solid foundation in mathematics and computing, currently pursuing an MEng at Imperial College London. I have hands-on experience in software development, particularly in creating impactful and innovative projects that merge technology with real-world applications.
 
+#### Quick links: [StudyChain](https://github.com/AAreeb13/Design-For-Real-People) | [Compiler](https://github.com/AAreeb13/WACC-Compiler) | [Operating System](https://github.com/AAreeb13/Operating-System) | [Emulator and Assembler](https://github.com/AAreeb13/ARMv8-Emulator-and-Assembler-in-C)
+
+
 ---
 
 ## 💼 Experience
