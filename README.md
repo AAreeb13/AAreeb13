@@ -2,20 +2,12 @@
 
 **MEng Joint Maths and Computing Student** | **Imperial College London**
 
-Welcome to my GitHub! I'm a passionate developer with a solid foundation in mathematics and computing, currently pursuing an MEng at Imperial College London. I have hands-on experience in software development, particularly in creating impactful and innovative projects that merge technology with real-world applications.
+Welcome to my GitHub! I'm a passionate developer with a solid foundation in mathematics and computing, currently pursuing an MEng at Imperial College London. I have hands-on experience in software development, particularly in creating impactful and innovative projects that merge technology with real-world applications. I've worked in a start-up as the primary Full-Stack Developer.
 
 #### Quick links: [StudyChain](https://github.com/AAreeb13/Design-For-Real-People) | [Compiler](https://github.com/AAreeb13/WACC-Compiler) | [Operating System](https://github.com/AAreeb13/Operating-System) | [Emulator and Assembler](https://github.com/AAreeb13/ARMv8-Emulator-and-Assembler-in-C)
 
 
 ---
-
-## 💼 Experience
-
-### Software Development Intern | Stealth Start-Up
-- Developed a feature-rich Telegram Bot to automate promotional tasks for clients, leveraging Python, TypeScript, CSS, HTML, and React.
-- Achieved a **33% speed improvement in crypto transactions** by designing a webhook that removed moderator approval, boosting security with encryption keys.
-- Deployed a distributed system across Vercel, GitHub, and AWS, utilizing Linux VMs to ensure seamless integration for web and bot functionalities.
-
 ## 🚀 Projects
 
 ### [StudyChain WebApp](https://github.com/AAreeb13/Design-For-Real-People)
