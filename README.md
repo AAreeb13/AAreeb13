@@ -2,7 +2,7 @@
 
 **MEng Joint Maths and Computing Student** | **Imperial College London**
 
-Welcome to my GitHub! I'm a passionate developer with a solid foundation in mathematics and computing, currently pursuing an MEng at Imperial College London. I have hands-on experience in software development, particularly in creating impactful and innovative projects that merge technology with real-world applications. I've worked in a start-up as the primary Full-Stack Developer.
+Welcome to my GitHub! I'm a passionate developer with a solid foundation in mathematics and computing, currently pursuing an MEng at Imperial College London. I have hands-on experience in software development, particularly in creating impactful and innovative projects that merge technology with real-world applications. I've worked in a start-up as the primary Full-Stack Developer and currently a Founder and Lead Developer of Codeini, a mobile app to help coders of all ages!
 
 #### Quick links: [StudyChain](https://github.com/AAreeb13/Design-For-Real-People) | [Compiler](https://github.com/AAreeb13/WACC-Compiler) | [Operating System](https://github.com/AAreeb13/Operating-System) | [Emulator and Assembler](https://github.com/AAreeb13/ARMv8-Emulator-and-Assembler-in-C)
 
@@ -36,14 +36,8 @@ Developed an emulator and assembler for ARMv8 in C, complete with testing suites
 
 ---
 
-## 📈 Education
-- **MEng Joint Maths and Computing** - Imperial College London, 2022-2026 (Upper Second Class)
-- **A-Levels** - King’s College London Mathematics School, 3 A* in Mathematics, Further Mathematics, and Physics
-
----
-
 ## 🌱 Currently Learning
-I’m continuously exploring new technologies and diving deeper into **machine learning** and **distributed systems**. My recent work includes creating ML pipelines for predictive analytics and visual model representations.
+I’m continuously exploring new technologies and diving deeper into **machine learning** and **distributed systems**. My recent work includes creating ML pipelines for predictive analytics and visual model representations as well as working in a blockchain start-up.
 
 ## 📫 Let’s Connect!
 - **Email:** areeb.ahmad67@outlook.com
