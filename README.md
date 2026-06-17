@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mohammad Areeb Ahmad
+# Mohammad Areeb Ahmad GitHub
 
 **MEng Joint Maths and Computing Student** | **Imperial College London**
 
